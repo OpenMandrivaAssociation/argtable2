@@ -4,7 +4,7 @@
 
 Name: argtable2
 Version: 2.13
-Release: 2
+Release: 3
 Source0: http://prdownloads.sf.net/argtable/argtable%(echo %{version} |cut -d. -f1)-%(echo %{version} |cut -d. -f2-).tar.gz
 Summary: An ANSI C command line parser
 URL: http://argtable.sf.net/
