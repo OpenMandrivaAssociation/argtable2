@@ -7,7 +7,7 @@ Version: 2.13
 Release: 3
 Source0: http://prdownloads.sf.net/argtable/argtable%(echo %{version} |cut -d. -f1)-%(echo %{version} |cut -d. -f2-).tar.gz
 Summary: An ANSI C command line parser
-URL: http://argtable.sf.net/
+URL: https://argtable.sf.net/
 License: GPL
 Group: System/Libraries
 
