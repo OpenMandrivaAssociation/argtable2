@@ -11,6 +11,11 @@ URL: https://argtable.sf.net/
 License: GPL
 Group: System/Libraries
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Argtable is an ANSI C library for parsing GNU style command line options with
 a minimum of fuss.
